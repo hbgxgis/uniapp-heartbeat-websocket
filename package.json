@@ -1,6 +1,6 @@
 {
   "name": "@hbgxgis/uniapp-heartbeat-websocket",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "src/lib/index.js",
   "repository": {
     "type": "github",
